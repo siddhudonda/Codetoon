@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🧒 **Cartoonland Mode** – Explains code using bunnies, dragons, and candy kingdoms for kids.
 - 🦸 **Codeverse Mode** – Converts code into Marvel-style action drama for adults and teens.
